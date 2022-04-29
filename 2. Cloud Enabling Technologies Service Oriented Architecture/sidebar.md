@@ -2,7 +2,7 @@
     - [REST and Systems of Systems](/2.%20Cloud%20Services/Service%20Providers/README.md)
     - [Web Services](/2.%20Cloud%20Services/Types%20of%20Cloud%20services/README.md)
     - [Publish, Subscribe Model](/2.%20Cloud%20Services/Types%20of%20Cloud%20services/README.md)
-    - [Basics of Virtualization](/2.%20Cloud%20Services/Types%20of%20Cloud%20services/README.md)
+    - [Basics of Virtualization](/2.%20Cloud%20Enabling%20Technologies%20Service%20Oriented%20Architecture/Basics%20of%20Virtualization/README.md)
 
     
     
